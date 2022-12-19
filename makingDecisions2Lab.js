@@ -7,6 +7,7 @@ var arr = [10,20,30,40,50,60]
 */
 
 //Code Here
+let firstItem = array[0];
 
 
 ////////// PROBLEM 2 //////////
@@ -15,7 +16,7 @@ var arr = [10,20,30,40,50,60]
 */
 
 //Code Here
-
+let lastItemRemoved
 ////////// PROBLEM 3 //////////
 
 // Do not edit the code below.
